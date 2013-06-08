@@ -9,7 +9,7 @@ This project demonstrates how to create a `ListView` in Android that combines th
 
 The GMail app, Play Store app and Google I/O 2013 app all exhibit this behavior with slight variations.
 
-Take a look at this blog post (INSERT_BLOG_URL_HERE) for more details.
+Take a look at [this blog post](http://curioustechizen.blogspot.com/2013/06/android-listviews-hybrid-choice-behavior.html) for more details.
 
   [1]: https://lh5.googleusercontent.com/-HVUbT2xSCHE/UbNPf0kqtFI/AAAAAAAAAHk/cAFBmm4HglY/s512/target_ui.png "target_ui.png"
 
