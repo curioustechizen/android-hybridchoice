@@ -14,5 +14,4 @@ Take a look at [this blog post](http://curioustechizen.blogspot.com/2013/06/andr
   [1]: https://lh5.googleusercontent.com/-HVUbT2xSCHE/UbNPf0kqtFI/AAAAAAAAAHk/cAFBmm4HglY/s512/target_ui.png "target_ui.png"
 
 
-Android lists with "Hybrid" choice mode like the Play Store app (enabling both opening an item and choosing multiple items at the same time)
 
